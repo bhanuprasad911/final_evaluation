@@ -77,7 +77,8 @@ https://finaleval-backend-1.onrender.com/
 - React Icons
 
 **Info**
-- For graph simulation purpose, I have already added a month data to missed chats di display the graph
+- For graph simulation purpose, I have already added a month data to missed chats to display the graph
+- Logout functionality is provided. By clicking on the profile svg in the left bottom side of tha dashboard page you can logout.
 
   
 📧 **Contact**  
